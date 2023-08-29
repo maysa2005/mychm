@@ -15,6 +15,12 @@
    
   }
 
+nav {
+  font-family: Calibri;
+    margin: 0.2px;
+    padding: 0.2px;
+  }
+
   /* Add styles for the navigation menu */
   nav ul {
     list-style: none;
