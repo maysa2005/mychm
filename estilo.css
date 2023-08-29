@@ -17,13 +17,14 @@
 
 nav {
   font-family: Calibri;
-    margin: 0.9px;
-    padding: 0.9px;
+    margin: 0;
+    padding: 0;
   }
 
 h2 {
   font-family: Calibri;
   color:white ;
+  margin: 10px;
 }
 
 h2.2 {
@@ -32,6 +33,11 @@ h2.2 {
 }
 
 h2.3 {
+  font-family: Calibri;
+  color:white ;
+}
+
+h2.4 {
   font-family: Calibri;
   color:white ;
 }
