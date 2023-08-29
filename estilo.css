@@ -17,10 +17,16 @@
 
 nav {
   font-family: Calibri;
-    margin: 0.2px;
-    padding: 0.2px;
+    margin: 0.9px;
+    padding: 0.9px;
   }
 
+h2 {
+  font-family: Calibri;
+  color:white ;
+}
+
+  
   /* Add styles for the navigation menu */
   nav ul {
     list-style: none;
